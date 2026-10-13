@@ -1,4 +1,8 @@
 export const skills: string[] = [
+  "Agent Development",
+  "AI Product Development",
+  "Skill Development",
+  "Meta-Harness",
   "CSS",
   "SCSS",
   "JavaScript",
@@ -18,8 +22,10 @@ export const skills: string[] = [
   "MySQL",
   "Git",
   "Astro",
-  "Svelte",
   "Tailwind",
+  "Coolify",
+  "Cloudflare",
+  "Supabase",
   "UX/UI",
   "CI/CD",
 ];
