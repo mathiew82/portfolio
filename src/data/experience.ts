@@ -5,21 +5,21 @@ export const experience: ExperienceItem[] = [
     image: "logo_promofarma-min.webp",
     companyName: "Promofarma",
     position: "Frontend Engineer",
-    dates: "jun. 2021 - actualidad",
+    dates: "jun. 2021 - aug. 2026",
     description: `CSS, SASS, JavaScript, Typescript, Vue.js, Vuex, GraphQL, Jest, GIT`,
   },
   {
     image: "logo_housfy-min.webp",
     companyName: "Housfy",
     position: "Front-End Developer",
-    dates: "dic. 2020 - abr. 2021",
+    dates: "dec. 2020 - apr. 2021",
     description: `CSS, SASS, JavaScript, Typescript, Vue.js, Vuex, Nuxt.js, Jest, GIT`,
   },
   {
     image: "logo_crealogix-min.webp",
     companyName: "CREALOGIX Group",
     position: "Front-End Developer",
-    dates: "jul. 2020 - dic. 2020",
+    dates: "jul. 2020 - dec. 2020",
     description: `CSS, SASS, JavaScript, GIT`,
   },
   {
@@ -48,7 +48,7 @@ export const experience: ExperienceItem[] = [
     image: "logo_codiwho-min.webp",
     companyName: "Freelance",
     position: "Full-Stack Developer",
-    dates: "dic. 2013 - mar. 2015",
+    dates: "dec. 2013 - mar. 2015",
     description: `CSS, SASS, JavaScript, jQuery, AJAX, PHP, CodeIgniter, MySQL, GIT`,
   },
 ];
