@@ -5,7 +5,7 @@ export const projects: ProjectItem[] = [
     image: "logo_beatjob-min.png",
     url: "https://beatjob.com/",
     name: "Beatjob",
-    stack: "Next.js, Supabase, Coolify, Cloudflare, Nodemailer, Turnstile",
+    stack: "Next.js, Supabase, Coolify, Cloudflare, Docker",
     description:
       "AI-optimized resume builder that helps you write, structure, and tailor your CV to each job to pass ATS screening.",
   },
