@@ -5,7 +5,7 @@ export const projects: ProjectItem[] = [
     image: "logo_beatjob-min.png",
     url: "https://beatjob.com/",
     name: "Beatjob",
-    stack: "Next.js, Supabase, Coolify, Cloudflare, Docker",
+    stack: "Next.js, Supabase, Coolify, Cloudflare, Docker, Sentry",
     description:
       "AI-optimized resume builder that helps you write, structure, and tailor your CV to each job to pass ATS screening.",
   },
@@ -24,14 +24,6 @@ export const projects: ProjectItem[] = [
     stack: "React, Redux, Jest, TMDb API",
     description:
       "Movie search project powered by the TMDb API. You can search for movies and get information about them.",
-  },
-  {
-    image: "logo_dailup-min.png",
-    url: "https://dailup.vercel.app/",
-    name: "Dailup",
-    stack: "Vue, Pinia",
-    description:
-      "Application for tracking daily work time. Tracks time by shift.",
   },
   {
     image: "logo_okivim-min.png",
